@@ -1,4 +1,4 @@
-# OPTIMUS
+#Spring boot as AWS lambda
  
 AWS lamda can be written using various programming languages but when it comes to Java you might be thinking if you can utilise the power of Spring inside Lambda. So thats why I have setup a simple example showing how you can configure Spring boot application as Lambda function.
 
